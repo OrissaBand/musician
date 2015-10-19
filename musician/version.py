@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # This file is part of musician.
-# https://github.com/someuser/somepackage
+# https://github.com/orissaband/musician
 
 # Licensed under the MIT license:
 # http://www.opensource.org/licenses/MIT-license
