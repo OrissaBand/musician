@@ -10,13 +10,13 @@
 
 
 def initialize_pins():
-    return True
+    pass
 
 def setMode(mode):
-    return True
+    pass
 
 def setup(pin, mode):
-    return True
+    pass
 
 def output(pin, state):
-    return True
+    pass

@@ -18,6 +18,9 @@ setup:
 # test your application (tests in the tests/ directory)
 test: unit
 
+run:
+	python musician/main.py
+
 unit:
 	@coverage run --branch `which nosetests` -vv --with-yanc -s tests/
 	@coverage report -m --fail-under=80
