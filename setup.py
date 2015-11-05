@@ -52,7 +52,7 @@ This application is for controlling robotic musicians via midi.
     install_requires=[
         # add your dependencies here
         # remember to use 'package-name>=x.y.z,<x.y+1.0' notation
-        'python-rtmidi>=0.5,<0.6'
+        'python-rtmidi'
     ],
     extras_require={
         'tests': tests_require,

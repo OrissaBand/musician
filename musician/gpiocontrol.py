@@ -11,7 +11,7 @@
 
 import os
 
-if (os.uname()[4].startswith("arm") or ):
+if (os.uname()[4].startswith("arm")):
     import rpio
 else:
     import rpiomock as rpio
