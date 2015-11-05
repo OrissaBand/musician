@@ -11,3 +11,12 @@
 
 def initialize_pins():
     return True
+
+def setMode(mode):
+    return True
+
+def setup(pin, mode):
+    return True
+
+def output(pin, state):
+    return True
